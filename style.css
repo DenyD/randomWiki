@@ -1,0 +1,17 @@
+body{
+  font-size:25px;
+  margin-top:100px;
+  background:black;
+}
+.ram{
+  padding:5px;
+  font-size:25px;
+  border-color:red;
+  border-radius:5px;
+  border-style:solid;
+  background-color:white;
+  opacity:0.8
+}
+.m{margin-top:60px;}
+.m1{margin-top:20px;}
+h1{color:white}
